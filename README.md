@@ -5,7 +5,7 @@ Repository for module 2
 In this project, we used VBA to analyze a spreadsheet containing stock information.
 
 ### Purpose
-The purpose of this project is to practice multiple features of VBA in order to analyze spreadsheet in more details with simple coding.
+The purpose of this project is to practice multiple features of VBA and to compare refactoring code with less structured code.  
 
 ## Results
 The analysis of the spreadsheet was done with the following VBA code:
